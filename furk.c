@@ -4,6 +4,7 @@
 
 
 /* PID des deux poussins. */
+/*comprendre le fork*/
 int p1;
 int p2;
 /* Crée 2 poussins.
